@@ -1,5 +1,5 @@
 # NetEase-cloud-music
-网易云解析
+API analysis
 -------------------------------------------------------------------------
 Hello, everyone! I'm Jalen.
 This project is the analysis process and finished product of NetEase cloud.
